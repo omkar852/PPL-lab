@@ -1,0 +1,13 @@
+1.] Here bb3 and bb4 corresponds to the whileloop. bb4 is the while conditional.
+	In case of if-else statements after the evaluation of statements in if block, there is an unconditional goto. But for a "while loop" threre is no unconditional goto after the expression in if statement i.e. the statement is evaluated until becomes false.
+
+
+2.] bb5 : Outer loop initialise
+bb6 : Inner loop initialise
+bb10 : Outer loop conditional
+bb8 : inner loop conditional
+bb7 : inner loop body and variable increement
+bb9 : Outer loop variable increement
+	In case of "for loop", always there is a need of an iterator which has to be modified after each execution. And the loop terminates when this iterator reaches its limit. 
+	But for "while loop", iterator even may not be used. It just keeps on checking the given statement until it becomes false.
+

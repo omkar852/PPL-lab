@@ -1,0 +1,7 @@
+1.] May be the D suffix is used for the variables which are just initialised but not assigned any value.
+
+2.] The PHI statements in bb5 are used to merge the values of 'a' and 'b'. 
+The syntax of PHI can be "PHI <var_suffix(bb name),.....>". Here the bb name is the name of the bb in which variable is initialsed.
+
+3.] PHI can merge more than two variables when lot of if-else blocks are placed in sequence.
+

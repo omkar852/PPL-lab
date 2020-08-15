@@ -1,0 +1,10 @@
+1.] If then staements are represented as conditional and unconditional gotos. The gotos which are just after if-else keywords are Conditional gotos. But the gotos which are mentioned on seperate line are called Unconditional gotos.
+
+2.]
+
+
+ADDITIONAL PROBLEM
+------------------
+
+Ternary operators are converted into if then statements and then evaluated.
+

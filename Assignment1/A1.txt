@@ -1,0 +1,9 @@
+Answers
+1.] Declarations are placed on separate lines each having one. Even if multiple variables are declared on single line, they are placed on different lines in Gipmle.Global Variable are not declared initially like local variables.
+
+2.] Complex expressions are broken down into small subexpressions and are evaluated one by one, by going on storing the results into some temporary variables. Whenever there are two or more operations in an expression then it is broken down. 
+
+3.] Float numbers are expressed in their scientific form where the number is expressed within certain range and multiplied with powers of 10. When float is assigned to an int variable, then it is first converted to int in a temporary variable and then it is assigned to desired variable.
+
+4.] For global variables the all the expressions  are broken and simplified before assigning the value to it. But for local variables not all but only the complex expressions are broken.
+

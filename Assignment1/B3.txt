@@ -1,0 +1,2 @@
+1.] As the variable 'a' takes values from 4 to 99 then the condition a<4 will never be true. So, the code in that block will be eliminated.
+

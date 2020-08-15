@@ -1,0 +1,6 @@
+1.] Array is declared with size just like the local variables. And each element of array is initialised on separate lines.
+
+2.] The statement a[i] = b[i] gets broken down to two steps as the expression involves two different arrays.
+
+3.] Clobber statements are written in the end so that the arrays are overwritten after the operations.
+
