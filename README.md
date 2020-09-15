@@ -7,5 +7,7 @@ Experiment `1: Hello world
 
 Assignment 1
 
-Assignment 2 and 3
+Assignment 2
+
+Assignment 3
 
